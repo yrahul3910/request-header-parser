@@ -1,0 +1,25 @@
+{
+  "name": "request-parser",
+  "author": "Rahul Yedida",
+  "version": "1.0.0",
+  "description": "FCC Request Header Parser Microservice Project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "engines": {
+    "node": "8.1.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/welcome-project"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
